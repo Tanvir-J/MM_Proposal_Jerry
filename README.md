@@ -51,9 +51,13 @@ Parts:
 		- Power Consumption: Upto 800mA
 	- Connection Type: 2 Half Bridges (each with VCC/GND, and Input/Output pins)
 	- Input/Data Output: N/A
-## Flowchart of System Design
+## Flowcharts / Diagrams
 
+### Systems Design
 
+![SystemsDiagram](SystemsDiagram_final.png)
+
+![LogicDiagram](LogicDiagram_final.png)
 
 ## Parts and Costs
 
