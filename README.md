@@ -88,7 +88,13 @@ Parts:
 
 ## 3D Model
 
-This should be a series of images from multiple angles of a to scale model of your robot that includes all major physical components (small components such as fundamental circuit components and wires can be omitted). You may use whatever method of creating this model as long as it is to scale. We recommend using 3D CAD programs such as Autodesk Inventor or Fusion 360. You may also use physical prototyping methods such as foam-core, cardboard, clay, or even Lego. The most important thing is that you get a real-world representation of the actual size of your components in relation to each other. As such, this model does not need to be detailed, as long as the size and shape of parts are correct. 
+Side Note: While these are very rough drawings, everything is exactly to scale as specified by the dimensions in the datasheets for all the components. For reference, the scale is: one grid on the graph paper = 10mm.
+For the second image, due to a lack of space the battery and magnetometer scales are outside of the drawing. But in our design they would be stacked on top of the Arduino and the other sensors. The IR and ultrasonic sensors have to be lower down anyways since the maze walls aren't that tall.
+The motors and sensors would be at a similar height to each other.
+
+![SideView](SideView.jpg)
+![Sensors](Sensors.jpg)
+![Motors](Motors.jpg)
 
 ## Teammates and Responsibilities
 
